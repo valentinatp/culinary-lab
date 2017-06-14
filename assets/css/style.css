@@ -1,1 +1,29 @@
-style.css
+body{
+	margin: 0;
+}
+
+.barra-completa{
+	position: fixed;
+	width: 100%;
+}
+
+.logo{
+	margin-right: 50%;
+}
+
+.listado{
+	display: inline-block;
+	padding: 0 10px;
+	margin-right: 30px;
+}
+
+.listado a{
+	color: whitesmoke;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.fondo{
+	width: 100%;
+	background-position: center;
+	background-size: cover;
+}
