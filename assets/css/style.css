@@ -97,3 +97,28 @@ body{
 	margin-top: 15px;
 }
 
+.pastel{
+	background-image: url(../../img/bg-quote.jpg);
+	background-position: center;
+}
+
+.row h3{
+	color: whitesmoke;
+	font-weight: normal;
+	margin-top: 35%;
+}
+
+.linea-dos{
+	border-top: 2px solid rgba(255, 255, 255, 0.9);
+	width: 100%;
+	margin: 2px 0;
+}
+
+.btn{
+	margin-top: 20px;
+	background-color: transparent;
+	border: 2px solid whitesmoke;
+	color: whitesmoke;
+	text-transform: uppercase;
+	margin-bottom: 15%;
+}
